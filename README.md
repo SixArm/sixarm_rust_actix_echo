@@ -1,6 +1,6 @@
 # SixArm → Rust → Actix → Echo
 
-A Rust Actix web service to echo any input query string.
+A Rust Actix web service to echo any path.
 
 Launch:
 
